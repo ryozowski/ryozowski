@@ -40,9 +40,12 @@ status:   building
 
 ### Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ryozowski&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=6E7681&icon_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryozowski&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=6E7681&langs_count=6" />
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <img src="./metrics-languages.svg" alt="Languages" width="500" />
 </p>
 
 ---
