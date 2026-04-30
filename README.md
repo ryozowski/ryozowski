@@ -51,5 +51,7 @@ status:   building
 ---
 
 <p align="center">
-  <sub><i>Building to make the people I love happy.</i></sub>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=6E7681&center=true&vCenter=true&width=600&lines=Building+to+make+the+people+I+love+happy.;Sharing+Japanese+culture+with+the+world.;Creating+joy.+Making+people+smile." alt="Mottos" />
+  </a>
 </p>
